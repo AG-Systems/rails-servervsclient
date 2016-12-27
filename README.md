@@ -1,5 +1,7 @@
 # Client vs Server
 
+Dummy project for me to learn how to do client side rendering with React.js and compare with server side rendering
+
 How to install:
 
 1) git clone https://github.com/AG-Systems/rails-servervsclient.git
